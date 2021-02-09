@@ -4,6 +4,7 @@ This is a simple and easy to use csv converter that I made for the administratio
 ![DigitalMeasuresSS](https://github.com/ryangriggs1/Digital-Measures/blob/main/DigitalMeasuresSS.PNG)  
 ### Program running
 ![program](https://github.com/ryangriggs1/Digital-Measures/blob/main/program.gif)
+![running](https://github.com/ryangriggs1/Digital-Measures/blob/main/running.gif)
 ## Installation
 * Run "setup.exe"
 * Click "Install"

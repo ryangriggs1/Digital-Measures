@@ -8,3 +8,5 @@ This is a simple and easy to use csv converter that I made for the administratio
 * Run "setup.exe"
 * Click "Install"
 * The application is now installed
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details 

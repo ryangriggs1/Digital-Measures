@@ -10,4 +10,4 @@ This is a simple and easy to use csv converter that I made for the administratio
 * Click "Install"
 * The application is now installed
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details 
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ryangriggs1/Digital-Measures/blob/main/LICENSE) file for details 
